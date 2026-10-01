@@ -1,0 +1,6 @@
+{
+  "name": "MERN Secure Authentication System",
+  "description": "Production-grade MERN authentication system with JWT, bcrypt password hashing, protected routes, persistent sessions, and responsive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
